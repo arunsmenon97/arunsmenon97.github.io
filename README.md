@@ -1,5 +1,5 @@
 **Thrissur, Kerala, India - 680312**  
-**+91 7356215759** | **arunmenon619@gmail.com**  
+**arunmenon619@gmail.com**  
 [LinkedIn](https://www.linkedin.com/in/arun-s-menon97) | [Salesforce Trailhead](https://www.salesforce.com/trailblazer/arunsmenon)
 
 ---
