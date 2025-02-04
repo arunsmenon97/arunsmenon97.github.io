@@ -11,8 +11,14 @@ An experienced Salesforce developer seeking a full-time position in the field of
 
 ## Experience
 
+### Software Engineer 2 | **Illumina**  
+**January 2025 - Present**  
+- Developed using Apex classes, Lightning Web components.  
+- Automated various processes effectively using flows.  
+- Executed pipeline deployments through Git, AutoRabbit  
+
 ### Application Development Analyst | **Accenture**  
-**November 2021 – Present**  
+**November 2021 – January 2025**  
 - Developed using Apex classes, Lightning Web/Aura components, and Flows.  
 - Implemented integrations with REST APIs, HTTP callouts, and JWTs.  
 - Implemented Enhanced Domain organization-wide.  
